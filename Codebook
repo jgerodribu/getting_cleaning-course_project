@@ -1,0 +1,9 @@
+# Data
+
+The data was provided by coursera. The project uses 6 datasets:
+* x_train
+* y_train
+* x_text
+* y_text
+* subject_train
+* subject_test
